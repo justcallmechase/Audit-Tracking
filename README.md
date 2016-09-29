@@ -14,5 +14,6 @@
 	* Entity agreement/disagreement with recommendations
 	* Entity actions
 	* Recommendation implementation status
+	* Anticipated completion date
 	
 

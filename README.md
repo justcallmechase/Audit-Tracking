@@ -1,4 +1,4 @@
-#Audit Tracking 
+#Boaha Audit Tracking 
 >Tracking audited entities responses, progress, and status
 
 **Project Goals**
@@ -18,4 +18,4 @@
 	
 
 ## License and Copyright ##
-This softare is released under the GNU Affero General Public License version 3.0. Copyright (c) 2016, Chase Adams.  See [LICENSE.md](LICENSE.md "LICENSE.md")
+Boaha is released under the GNU Affero General Public License version 3.0. Copyright (c) 2016, Chase Adams.  See [LICENSE.md](LICENSE.md "LICENSE.md")
